@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://seryoga-nosik.github.io/ddt-project",
+  "homepage": "https://github.com/Doon110/ddt-project-my",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /ddt-project/",
+    "predeploy": "npm run build -- --public-url /ddt-project-mynpmç/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
